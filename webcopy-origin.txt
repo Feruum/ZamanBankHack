@@ -1,0 +1,476 @@
+Uri: https://abt.s3.yandex.net/expjs/latest/exp.js
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\expjs\latest\exp.js
+Content Type: application/javascript
+
+Uri: https://api-maps.yandex.ru/2.1/?lang=ru_RU
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\2.1\json.txt
+Content Type: application/javascript
+
+Uri: https://mc.yandex.ru/metrika/tag.js
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\metrika\tag.js
+Content Type: application/javascript
+
+Uri: https://scripts.clarity.ms/0.8.35/clarity.js
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\0.8.35\clarity.js
+Content Type: application/javascript
+
+Uri: https://www.clarity.ms/tag/rkcaokt14q
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\tag\rkcaokt14q
+Content Type: application/x-javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-6YWW3J6S5G
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtm.js?id=GTM-NHF8LXV8
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\gtm.js
+Content Type: application/javascript
+
+Uri: https://www.zamanbank.kz/
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\index.htm
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/about-bank/contacts
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\about-bank\contacts.html
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/about-bank/documenty
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\about-bank\documenty.html
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/about-bank/faq
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\about-bank\faq.html
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/about-bank/pervyj-islamskij-cifrovoj-bank-v-kazahstane
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\about-bank\pervyj-islamskij-cifrovoj-bank-v-kazahstane.html
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/business
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\business.html
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/business/business
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\business\business.html
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/contacts
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\contacts.html
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/documents
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\documents.html
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/faq
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\faq.html
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/islamic-finance/glossarij
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\islamic-finance\glossarij.html
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/islamic-finance/islamskie-finansy
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\islamic-finance\islamskie-finansy.html
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/islamic-finance/otvety-na-voprosy
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\islamic-finance\otvety-na-voprosy.html
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/news
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\news.html
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/news-inner/zaman-bank-provel-seminar-po-islamskomu-finansirovaniyu-dlya-zhurnalistov-i-blogerov
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\news-inner\zaman-bank-provel-seminar-po-islamskomu-finansirovaniyu-dlya-zhurnalistov-i-blogerov.html
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/news-inner/zaman-bank-zapustil-cifrovuyu-linejku-islamskih-produktov
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\news-inner\zaman-bank-zapustil-cifrovuyu-linejku-islamskih-produktov.html
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/news-inner/zaman-bank-zapustil-ii-pomoshchnika-v-mobilnom-prilozhenii
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\news-inner\zaman-bank-zapustil-ii-pomoshchnika-v-mobilnom-prilozhenii.html
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/news/
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\news\index.htm
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/news/bank-news
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\news\bank-news.html
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/personal/agentskij-depozit-vakala
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\personal\agentskij-depozit-vakala.html
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/personal/onlajn-finansirovanie-bez-zaloga
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\personal\onlajn-finansirovanie-bez-zaloga.html
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/personal/pervaya-islamskaya-cifrovaya-karta
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\personal\pervaya-islamskaya-cifrovaya-karta.html
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/ru
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\ru.html
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/ru/
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\ru\index.htm
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/ru/about-bank/contacts
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\ru\about-bank\contacts.html
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/ru/about-bank/documenty
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\ru\about-bank\documenty.html
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/ru/about-bank/faq
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\ru\about-bank\faq.html
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/ru/about-bank/pervyj-islamskij-cifrovoj-bank-v-kazahstane
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\ru\about-bank\pervyj-islamskij-cifrovoj-bank-v-kazahstane.html
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/ru/business
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\ru\business.html
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/ru/business/
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\ru\business\index.htm
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/ru/business/business
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\ru\business\business.html
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/ru/contacts
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\ru\contacts.html
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/ru/documents
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\ru\documents.html
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/ru/faq
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\ru\faq.html
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/ru/islamic-finance/glossarij
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\ru\islamic-finance\glossarij.html
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/ru/islamic-finance/islamskie-finansy
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\ru\islamic-finance\islamskie-finansy.html
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/ru/islamic-finance/otvety-na-voprosy
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\ru\islamic-finance\otvety-na-voprosy.html
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/ru/news
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\ru\news.html
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/ru/news-inner/zaman-bank-provel-seminar-po-islamskomu-finansirovaniyu-dlya-zhurnalistov-i-blogerov
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\ru\news-inner\zaman-bank-provel-seminar-po-islamskomu-finansirovaniyu-dlya-zhurnalistov-i-blogerov.html
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/ru/news-inner/zaman-bank-zapustil-cifrovuyu-linejku-islamskih-produktov
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\ru\news-inner\zaman-bank-zapustil-cifrovuyu-linejku-islamskih-produktov.html
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/ru/news-inner/zaman-bank-zapustil-ii-pomoshchnika-v-mobilnom-prilozhenii
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\ru\news-inner\zaman-bank-zapustil-ii-pomoshchnika-v-mobilnom-prilozhenii.html
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/ru/news/
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\ru\news\index.htm
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/ru/news/bank-news
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\ru\news\bank-news.html
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/ru/personal/agentskij-depozit-vakala
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\ru\personal\agentskij-depozit-vakala.html
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/ru/personal/onlajn-finansirovanie-bez-zaloga
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\ru\personal\onlajn-finansirovanie-bez-zaloga.html
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/ru/personal/pervaya-islamskaya-cifrovaya-karta
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\ru\personal\pervaya-islamskaya-cifrovaya-karta.html
+Content Type: text/html
+
+Uri: https://www.zamanbank.kz/storage/app/media/Банки корреспонденты.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\Банки корреспонденты.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/Действующие тарифы для юр. лиц.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\Действующие тарифы для юр. лиц.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/Действующие тарифы физ. лиц.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\Действующие тарифы физ. лиц.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/КОМЛЕКСНОЕ СОГЛАСИЕ_финал.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\КОМЛЕКСНОЕ СОГЛАСИЕ_финал.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/ПРАВИЛА ОБ ОБЩИХ УСЛОВИЯХ.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\ПРАВИЛА ОБ ОБЩИХ УСЛОВИЯХ.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/Пользовательское соглашение рус.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\Пользовательское соглашение рус.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/Пользовательское соглашение_каз.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\Пользовательское соглашение_каз.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/Права и ответственность клиента.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\Права и ответственность клиента.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/Правила внутреннего контроля доступа к инсайдерской информации и ее использования.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\Правила внутреннего контроля доступа к инсайдерской информации и ее использования.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/Приложение 1 Заявление о присоединении.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\Приложение 1 Заявление о присоединении.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/Приложение 2 Заявление на предоставление тендерной гарантии.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\Приложение 2 Заявление на предоставление тендерной гарантии.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/СОГЛАШЕНИЕ НА ВЫПУСК ТЕНДЕРНЫХ ГАРАНТИЙ.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\СОГЛАШЕНИЕ НА ВЫПУСК ТЕНДЕРНЫХ ГАРАНТИЙ.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/Текущие счета физ лиц.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\Текущие счета физ лиц.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/Товарная_мурабаха_по_финансированию_ФЛ_2.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\Товарная_мурабаха_по_финансированию_ФЛ_2.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/all%402x.png
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\all@2x.png
+Content Type: image/png
+
+Uri: https://www.zamanbank.kz/storage/app/media/ao-ib-zaman-bank-finansovaia-otcetnost-za-god-2019g-i-otcet-nezavisimyx-auditorov.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\ao-ib-zaman-bank-finansovaia-otcetnost-za-god-2019g-i-otcet-nezavisimyx-auditorov.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/ao-ib-zaman-bank-finansovaia-otcetnost-za-god-2020g-i-otcet-nezavisimyx-auditorov.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\ao-ib-zaman-bank-finansovaia-otcetnost-za-god-2020g-i-otcet-nezavisimyx-auditorov.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/ao-ib-zaman-bank-finansovaia-otcetnost-za-god-2021g-i-otcet-nezavisimyx-auditorov.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\ao-ib-zaman-bank-finansovaia-otcetnost-za-god-2021g-i-otcet-nezavisimyx-auditorov.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/ao-ib-zaman-bank-finansovaia-otcetnost-za-god-2022g-i-otcet-nezavisimyx-auditorov.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\ao-ib-zaman-bank-finansovaia-otcetnost-za-god-2022g-i-otcet-nezavisimyx-auditorov.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/ao-ib-zaman-bank-finansovaia-otcetnost-za-god-2023g-i-otcet-nezavisimyx-auditorov-zagruzit.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\ao-ib-zaman-bank-finansovaia-otcetnost-za-god-2023g-i-otcet-nezavisimyx-auditorov-zagruzit.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/ao-ib-zaman-bank-finansovaia-otcetnost-za-god-zakoncivsiisia-31-dekabria-2017-g-i-otcet-nezavisimyx-auditorov.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\ao-ib-zaman-bank-finansovaia-otcetnost-za-god-zakoncivsiisia-31-dekabria-2017-g-i-otcet-nezavisimyx-auditorov.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/ao-ib-zaman-bank-finansovaia-otcetnost-za-god-zakoncivsiisia-31-dekabria-2018-g-i-otcet-nezavisimyx-auditorov.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\ao-ib-zaman-bank-finansovaia-otcetnost-za-god-zakoncivsiisia-31-dekabria-2018-g-i-otcet-nezavisimyx-auditorov.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/ao-zaman-bank-finansovaia-otcetnost-za-god-zakoncivsiisia-31-dekabria-2005-g-i-otcet-nezavisimyx-auditorov.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\ao-zaman-bank-finansovaia-otcetnost-za-god-zakoncivsiisia-31-dekabria-2005-g-i-otcet-nezavisimyx-auditorov.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/ao-zaman-bank-finansovaia-otcetnost-za-god-zakoncivsiisia-31-dekabria-2006-g-i-otcet-nezavisimyx-auditorov.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\ao-zaman-bank-finansovaia-otcetnost-za-god-zakoncivsiisia-31-dekabria-2006-g-i-otcet-nezavisimyx-auditorov.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/ao-zaman-bank-finansovaia-otcetnost-za-god-zakoncivsiisia-31-dekabria-2007-g-i-otcet-nezavisimyx-auditorov.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\ao-zaman-bank-finansovaia-otcetnost-za-god-zakoncivsiisia-31-dekabria-2007-g-i-otcet-nezavisimyx-auditorov.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/ao-zaman-bank-finansovaia-otcetnost-za-god-zakoncivsiisia-31-dekabria-2008-g-i-otcet-nezavisimyx-auditorov.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\ao-zaman-bank-finansovaia-otcetnost-za-god-zakoncivsiisia-31-dekabria-2008-g-i-otcet-nezavisimyx-auditorov.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/ao-zaman-bank-finansovaia-otcetnost-za-god-zakoncivsiisia-31-dekabria-2009-g-i-otcet-nezavisimyx-auditorov.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\ao-zaman-bank-finansovaia-otcetnost-za-god-zakoncivsiisia-31-dekabria-2009-g-i-otcet-nezavisimyx-auditorov.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/ao-zaman-bank-finansovaia-otcetnost-za-god-zakoncivsiisia-31-dekabria-2010-g-i-otcet-nezavisimyx-auditorov.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\ao-zaman-bank-finansovaia-otcetnost-za-god-zakoncivsiisia-31-dekabria-2010-g-i-otcet-nezavisimyx-auditorov.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/ao-zaman-bank-finansovaia-otcetnost-za-god-zakoncivsiisia-31-dekabria-2011-g-i-otcet-nezavisimyx-auditorov.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\ao-zaman-bank-finansovaia-otcetnost-za-god-zakoncivsiisia-31-dekabria-2011-g-i-otcet-nezavisimyx-auditorov.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/ao-zaman-bank-finansovaia-otcetnost-za-god-zakoncivsiisia-31-dekabria-2012-g-i-otcet-nezavisimyx-auditorov.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\ao-zaman-bank-finansovaia-otcetnost-za-god-zakoncivsiisia-31-dekabria-2012-g-i-otcet-nezavisimyx-auditorov.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/ao-zaman-bank-finansovaia-otcetnost-za-god-zakoncivsiisia-31-dekabria-2013-g-i-otcet-nezavisimyx-auditorov.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\ao-zaman-bank-finansovaia-otcetnost-za-god-zakoncivsiisia-31-dekabria-2013-g-i-otcet-nezavisimyx-auditorov.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/ao-zaman-bank-finansovaia-otcetnost-za-god-zakoncivsiisia-31-dekabria-2014-g-i-otcet-nezavisimyx-auditorov.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\ao-zaman-bank-finansovaia-otcetnost-za-god-zakoncivsiisia-31-dekabria-2014-g-i-otcet-nezavisimyx-auditorov.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/ao-zaman-bank-finansovaia-otcetnost-za-god-zakoncivsiisia-31-dekabria-2015-g-i-otcet-nezavisimyx-auditorov.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\ao-zaman-bank-finansovaia-otcetnost-za-god-zakoncivsiisia-31-dekabria-2015-g-i-otcet-nezavisimyx-auditorov.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/ao-zaman-bank-finansovaia-otcetnost-za-god-zakoncivsiisia-31-dekabria-2016-g-i-otcet-nezavisimyx-auditorov.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\ao-zaman-bank-finansovaia-otcetnost-za-god-zakoncivsiisia-31-dekabria-2016-g-i-otcet-nezavisimyx-auditorov.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/car_new.png
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\car_new.png
+Content Type: image/png
+
+Uri: https://www.zamanbank.kz/storage/app/media/dogovor-kompleksnogo-bankovskogo-obsluzivaniia-2.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\dogovor-kompleksnogo-bankovskogo-obsluzivaniia-2.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/education%402x.png
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\education@2x.png
+Content Type: image/png
+
+Uri: https://www.zamanbank.kz/storage/app/media/komleksnoe-soglasie-final-kaz-rus-sait-bez-primec-dlia-rabotnikov-5.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\komleksnoe-soglasie-final-kaz-rus-sait-bez-primec-dlia-rabotnikov-5.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/kompleksnoe-soglasiena-na-kazax-russ-iaz-v-nov-redakc-s-primecaniiami-dlia-rabotnikov-banka-3.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\kompleksnoe-soglasiena-na-kazax-russ-iaz-v-nov-redakc-s-primecaniiami-dlia-rabotnikov-banka-3.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/licenziia-kaz.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\licenziia-kaz.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/licenziia-rus.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\licenziia-rus.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/oyacqjwx_qr_code.svg
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\oyacqjwx_qr_code.svg
+Content Type: image/svg+xml
+
+Uri: https://www.zamanbank.kz/storage/app/media/pravila-predostavleniia-ebu-internet-klient-s-izm-270625-1.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\pravila-predostavleniia-ebu-internet-klient-s-izm-270625-1.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/referalnaia-programma-dostar-kaz.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\referalnaia-programma-dostar-kaz.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/referalnaia-programma-dostar-rus.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\referalnaia-programma-dostar-rus.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/repair%402x.png
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\repair@2x.png
+Content Type: image/png
+
+Uri: https://www.zamanbank.kz/storage/app/media/tarify-na-uslugi-okazyvaemye-klientam-fiziceskim-licam-v-ao-islamskii-bank-zaman-bank.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\tarify-na-uslugi-okazyvaemye-klientam-fiziceskim-licam-v-ao-islamskii-bank-zaman-bank.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/technique%402x.png
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\technique@2x.png
+Content Type: image/png
+
+Uri: https://www.zamanbank.kz/storage/app/media/travel_new.png
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\travel_new.png
+Content Type: image/png
+
+Uri: https://www.zamanbank.kz/storage/app/media/usloviia-na-sbor-i-obrabotku-personalnyx-dannnyx-na-rusiaz-5.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\usloviia-na-sbor-i-obrabotku-personalnyx-dannnyx-na-rusiaz-5.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/usloviia-na-sbor-i-obrabotku-personalnyx-dannnyx-na-rusiaz-v-nov-redak-3.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\usloviia-na-sbor-i-obrabotku-personalnyx-dannnyx-na-rusiaz-v-nov-redak-3.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/usloviia-na-sbor-i-obrabotku-personalnyx-dannnyx-qazaq-tili-3.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\usloviia-na-sbor-i-obrabotku-personalnyx-dannnyx-qazaq-tili-3.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/usloviia-na-sbor-i-obrabotku-personalnyx-dannnyx-qazaq-tili-tek-v-nov-redak-1.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\usloviia-na-sbor-i-obrabotku-personalnyx-dannnyx-qazaq-tili-tek-v-nov-redak-1.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/wedding%402x.png
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\wedding@2x.png
+Content Type: image/png
+
+Uri: https://www.zamanbank.kz/storage/app/media/zaiavlenie-na-otkrytie-investicionnogo-depozita-neogranicennaia-vakala-dlia-iur-lic.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\zaiavlenie-na-otkrytie-investicionnogo-depozita-neogranicennaia-vakala-dlia-iur-lic.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/zaman-bank-islam-banki-aq-da-internet-klient-zuiesi-arqyly-elektrondyq-bank-qyzmetterin-korsetu-qagidalary-1.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\zaman-bank-islam-banki-aq-da-internet-klient-zuiesi-arqyly-elektrondyq-bank-qyzmetterin-korsetu-qagidalary-1.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/zaman-bank-islam-banki-aq-da-zeke-tulgalar-men-zeke-kasipkerler-usin-mobildi-qosymsa-arqyly-elektrondyq-bank-qyzmetterin-usynu-alary.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\zaman-bank-islam-banki-aq-da-zeke-tulgalar-men-zeke-kasipkerler-usin-mobildi-qosymsa-arqyly-elektrondyq-bank-qyzmetterin-usynu-alary.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/Zaman_about_icon1.svg
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\Zaman_about_icon1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.zamanbank.kz/storage/app/media/Zaman_about_icon2.svg
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\Zaman_about_icon2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.zamanbank.kz/storage/app/media/Zaman_about_icon3.svg
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\Zaman_about_icon3.svg
+Content Type: image/svg+xml
+
+Uri: https://www.zamanbank.kz/storage/app/media/Zaman_about_logo1.svg
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\Zaman_about_logo1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.zamanbank.kz/storage/app/media/Zaman_about_logo2.svg
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\Zaman_about_logo2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.zamanbank.kz/storage/app/media/Zaman_carousel_1.png
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\Zaman_carousel_1.png
+Content Type: image/png
+
+Uri: https://www.zamanbank.kz/storage/app/media/Zaman_carousel_2.png
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\Zaman_carousel_2.png
+Content Type: image/png
+
+Uri: https://www.zamanbank.kz/storage/app/media/Zaman_privacy_policy.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\Zaman_privacy_policy.pdf
+Content Type: application/pdf
+
+Uri: https://www.zamanbank.kz/storage/app/media/Zaman_privacy_policy_kz.pdf
+File Name: C:\Downloaded Web Sites\www.zamanbank.kz\storage\app\media\Zaman_privacy_policy_kz.pdf
+Content Type: application/pdf
+
